@@ -237,6 +237,27 @@ a {
     position: relative;
 }
 
+// Status Colors
+#in-Progress {
+    color: blue;
+}
+
+#Partial-Success {
+    color: teal;
+}
+
+#Complete {
+    color: green;
+}
+
+#Stalled {
+    color: orange;
+}
+
+#Failed {
+    color: red;
+}
+
 // Browser Upgrade
 
 .browserupgrade {

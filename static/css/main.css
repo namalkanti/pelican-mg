@@ -144,6 +144,26 @@ a {
   float: left;
   position: relative; }
 
+#In-Progress {
+    color: blue;
+}
+
+#Partial-Success {
+    color: teal;
+}
+
+#Complete {
+    color: green;
+}
+
+#Stalled {
+    color: orange;
+}
+
+#Failed {
+    color: red;
+}
+
 .browserupgrade {
   margin: 0.2em 0;
   background: #ccc;
