@@ -149,6 +149,14 @@ a {
   float: left;
   position: relative; }
 
+.center {
+    text-align: center;
+}
+
+.border {
+    border: 3px solid black;
+}
+
 #In-Progress {
     color: blue;
 }
